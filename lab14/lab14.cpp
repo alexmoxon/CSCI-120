@@ -1,6 +1,6 @@
 //Created By: Alex Moxon
 //Created On: 09/05/2017
-/*Taking users input of cents and converting it to quarters, dimes, nickels, pennies
+/*Taking users input of cents and converting it to quarters, dimes, nickels, pennies.
 Then outputing the total amount given back after the tax. */
 
 #include<iostream>
