@@ -8,6 +8,7 @@ Then turning the user inputs into a Madlib*/
 using namespace std;
 
 int main() {
+    
     string foreignCountry; //Using strings for single word user input
     string adverb;         //Take these string inputs and implement them into the madlib paragraph
     string adjective;

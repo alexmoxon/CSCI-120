@@ -5,26 +5,25 @@ Then outputing the total amount given back after the tax. */
 
 #include<iostream>
 using namespace std;
-int quarters = 25;
-int dimes = 10;
-int nickels = 5;
-int pennies = 1;
-int cents = 0.0;
-double tax = 10.9;
-double tax1 = 0.0;
-double tax2 = 0.0;
-double taxedAmount = 0.0;
-int taxedFinal = 0.0;
-int taxedFinal1 = 0.0;
-int taxedFinal2 = 0.0;
-double coin1 = 0.0;
-double coin2 = 0.0;
-double coin3 = 0.0;
-double coin4 = 0.0;
 
- 
+
  int main () {
-  
+ int quarters = 25;
+ int dimes = 10;
+ int nickels = 5;
+ int pennies = 1;
+ int cents = 0.0;
+ double tax = 10.9;
+ double tax1 = 0.0;
+ double tax2 = 0.0;
+ double taxedAmount = 0.0;
+ int taxedFinal = 0.0;
+ int taxedFinal1 = 0.0;
+ int taxedFinal2 = 0.0;
+ double coin1 = 0.0;
+ double coin2 = 0.0;
+ double coin3 = 0.0;
+ double coin4 = 0.0;  
      cout << "Please insert amount of money: " << endl;
      cin >> cents;                       // user enters amount of cents
      cout << "You have entered: " << cents << " cents." << endl;
