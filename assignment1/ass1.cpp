@@ -1,12 +1,13 @@
 //Created By: Alex Moxon
 //Created On: 09/14/2017
-/*Insert definition here*/
+/*Takes user input about hours worked/hourly pay and converts that
+to a pay stub factoring in insurance costs and other take aways.*/
 
 #include<iostream>
 #include<string>
 using namespace std;
 
-struct WeeklyPay{
+struct WeeklyPay{ //below are all objects of my struct
     string name;
     double insuranceCost;
     double hoursWorked;
@@ -23,8 +24,8 @@ struct WeeklyPay{
 int main() 
 {
     
- WeeklyPay personA;
- const double tax = .83;
+ WeeklyPay personA; 
+ const double tax = .83; //variables are const because they should never change
  const double wagePerMile = .35;
  
  cout << "Please enter your first and last name: "  << endl; // taking in user data to use in calculations
