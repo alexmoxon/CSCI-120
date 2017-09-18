@@ -14,6 +14,7 @@ using namespace std;
   double numberShares;
   double totalValue;
   double totalPortfolio;
+  
  };
  
  int main()
