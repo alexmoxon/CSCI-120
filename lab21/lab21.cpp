@@ -9,6 +9,7 @@ using namespace std;
 
 
 int main(){
+    
     double temperature; //All variables are doubles because we're dealing with precise numbers
     double windSpeed;
     double oldStyleWindChill;
@@ -29,7 +30,7 @@ int main(){
     newStyleWindChill = 35.74 + 0.6215 * temperature - 35.75 * pow(windSpeed, 0.16) //Equation for the new style of calculating windchill
     + 0.4275 * temperature * pow(windSpeed, 0.16);
     
-   difference = newStyleWindChill - oldStyleWindChill; //Calculating difference between the two equations
+    difference = newStyleWindChill - oldStyleWindChill; //Calculating difference between the two equations
     
     cout << "Wind Speed: " << windSpeed << endl; //Output 
     cout << "Old Formula Wind Chill: " << oldStyleWindChill << endl;
