@@ -16,7 +16,7 @@ int RandomNumberSwap(int &min, int &max){ //Swaps min and max input. input: min,
 int RandomNumber(int min, int max){ //Swaps back max and min and prints random num between the two. input: max, min
     swap(min, max);                 //Output: A random number between (max) and (min) is (randomnum).
     srand(time(0));
-    int FinalNum = (rand() % max) + min;
+    int FinalNum = (rand() % max ) + min;
     cout << "A random number between " << min << " and " << max << " is " << FinalNum; //Output
 }
 
