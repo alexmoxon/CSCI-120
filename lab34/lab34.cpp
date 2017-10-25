@@ -1,7 +1,5 @@
 //Created By: Alex Moxon
 //Created On: 10/18/2017
-/*insert definition here*/
-
 /************************************************
 FINANCIAL SIMULATION
 You have a bank account whose annual interest
