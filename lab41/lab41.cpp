@@ -245,3 +245,26 @@ Search 10: 0
 Sorted? False
 
 */
+
+
+/*
+int ArrayTools::Nums_even_and_odd() {
+    // FINDING THE EVENS
+    cout <<"The Even Numbers Are: ";
+    
+    for (int i = 0; i<_size; i++) {
+        if (_myArray[i] % 2 == 0) {
+            cout << "  " << _myArray[i];
+        }
+    }
+    cout << endl;
+    //FINDING THE ODDS
+    cout << "The Odd Numbers Are: ";
+    for (int i = 0; i < _size; i++) {
+        if (_myArray[i] % 2 != 0) {
+            cout << "  " << _myArray[i];
+        }
+    }
+}
+
+*/
