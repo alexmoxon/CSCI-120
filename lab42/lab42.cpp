@@ -139,6 +139,8 @@ cout << "Total Amount: $" << total_ << endl;
 
 /*
 
+***Error Input:
+
 Welcome to Alex's Online Book Store!
 Enter the item number of the books you'd like to add to your cart!
 You can always enter 0 to checkout.
@@ -179,5 +181,235 @@ You can always enter 0 to checkout.
 
 
 
+
+
+
+
+
+
+
+***Full Run Through:
+
+Welcome to Alex's Online Book Store!
+Enter the item number of the books you'd like to add to your cart!
+You can always enter 0 to checkout.
+
+   Book Name ~ Amount Stocked ~ Price
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.  Harry Potter             8   $3.25
+2.  Moby Dick                3   $2.55
+3.  Hamlet                   8   $5.65
+4.  The Great Gatsby         2   $1.55
+5.  Nineteen Eighty Four     9   $4.25
+6.  Alice in Wonderland      4   $2.75
+7.  Great Expectations       9   $3.25
+8.  The Catcher in the Rye   2   $2.15
+9.  The Grapes of Wrath      4   $1.75
+10. The Bible                1   $1.15
+1
+How many would you like to purchase?
+2
+Welcome to Alex's Online Book Store!
+Enter the item number of the books you'd like to add to your cart!
+You can always enter 0 to checkout.
+
+   Book Name ~ Amount Stocked ~ Price
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.  Harry Potter             6   $3.25
+2.  Moby Dick                3   $2.55
+3.  Hamlet                   8   $5.65
+4.  The Great Gatsby         2   $1.55
+5.  Nineteen Eighty Four     9   $4.25
+6.  Alice in Wonderland      4   $2.75
+7.  Great Expectations       9   $3.25
+8.  The Catcher in the Rye   2   $2.15
+9.  The Grapes of Wrath      4   $1.75
+10. The Bible                1   $1.15
+2
+How many would you like to purchase?
+2
+Welcome to Alex's Online Book Store!
+Enter the item number of the books you'd like to add to your cart!
+You can always enter 0 to checkout.
+
+   Book Name ~ Amount Stocked ~ Price
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.  Harry Potter             6   $3.25
+2.  Moby Dick                1   $2.55
+3.  Hamlet                   8   $5.65
+4.  The Great Gatsby         2   $1.55
+5.  Nineteen Eighty Four     9   $4.25
+6.  Alice in Wonderland      4   $2.75
+7.  Great Expectations       9   $3.25
+8.  The Catcher in the Rye   2   $2.15
+9.  The Grapes of Wrath      4   $1.75
+10. The Bible                1   $1.15
+3
+How many would you like to purchase?
+2
+Welcome to Alex's Online Book Store!
+Enter the item number of the books you'd like to add to your cart!
+You can always enter 0 to checkout.
+
+   Book Name ~ Amount Stocked ~ Price
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.  Harry Potter             6   $3.25
+2.  Moby Dick                1   $2.55
+3.  Hamlet                   6   $5.65
+4.  The Great Gatsby         2   $1.55
+5.  Nineteen Eighty Four     9   $4.25
+6.  Alice in Wonderland      4   $2.75
+7.  Great Expectations       9   $3.25
+8.  The Catcher in the Rye   2   $2.15
+9.  The Grapes of Wrath      4   $1.75
+10. The Bible                1   $1.15
+4
+How many would you like to purchase?
+1
+Welcome to Alex's Online Book Store!
+Enter the item number of the books you'd like to add to your cart!
+You can always enter 0 to checkout.
+
+   Book Name ~ Amount Stocked ~ Price
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.  Harry Potter             6   $3.25
+2.  Moby Dick                1   $2.55
+3.  Hamlet                   6   $5.65
+4.  The Great Gatsby         1   $1.55
+5.  Nineteen Eighty Four     9   $4.25
+6.  Alice in Wonderland      4   $2.75
+7.  Great Expectations       9   $3.25
+8.  The Catcher in the Rye   2   $2.15
+9.  The Grapes of Wrath      4   $1.75
+10. The Bible                1   $1.15
+5
+How many would you like to purchase?
+6
+Welcome to Alex's Online Book Store!
+Enter the item number of the books you'd like to add to your cart!
+You can always enter 0 to checkout.
+
+   Book Name ~ Amount Stocked ~ Price
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.  Harry Potter             6   $3.25
+2.  Moby Dick                1   $2.55
+3.  Hamlet                   6   $5.65
+4.  The Great Gatsby         1   $1.55
+5.  Nineteen Eighty Four     3   $4.25
+6.  Alice in Wonderland      4   $2.75
+7.  Great Expectations       9   $3.25
+8.  The Catcher in the Rye   2   $2.15
+9.  The Grapes of Wrath      4   $1.75
+10. The Bible                1   $1.15
+6
+How many would you like to purchase?
+1
+Welcome to Alex's Online Book Store!
+Enter the item number of the books you'd like to add to your cart!
+You can always enter 0 to checkout.
+
+   Book Name ~ Amount Stocked ~ Price
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.  Harry Potter             6   $3.25
+2.  Moby Dick                1   $2.55
+3.  Hamlet                   6   $5.65
+4.  The Great Gatsby         1   $1.55
+5.  Nineteen Eighty Four     3   $4.25
+6.  Alice in Wonderland      3   $2.75
+7.  Great Expectations       9   $3.25
+8.  The Catcher in the Rye   2   $2.15
+9.  The Grapes of Wrath      4   $1.75
+10. The Bible                1   $1.15
+7
+How many would you like to purchase?
+2
+Welcome to Alex's Online Book Store!
+Enter the item number of the books you'd like to add to your cart!
+You can always enter 0 to checkout.
+
+   Book Name ~ Amount Stocked ~ Price
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.  Harry Potter             6   $3.25
+2.  Moby Dick                1   $2.55
+3.  Hamlet                   6   $5.65
+4.  The Great Gatsby         1   $1.55
+5.  Nineteen Eighty Four     3   $4.25
+6.  Alice in Wonderland      3   $2.75
+7.  Great Expectations       7   $3.25
+8.  The Catcher in the Rye   2   $2.15
+9.  The Grapes of Wrath      4   $1.75
+10. The Bible                1   $1.15
+8
+How many would you like to purchase?
+1
+Welcome to Alex's Online Book Store!
+Enter the item number of the books you'd like to add to your cart!
+You can always enter 0 to checkout.
+
+   Book Name ~ Amount Stocked ~ Price
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.  Harry Potter             6   $3.25
+2.  Moby Dick                1   $2.55
+3.  Hamlet                   6   $5.65
+4.  The Great Gatsby         1   $1.55
+5.  Nineteen Eighty Four     3   $4.25
+6.  Alice in Wonderland      3   $2.75
+7.  Great Expectations       7   $3.25
+8.  The Catcher in the Rye   1   $2.15
+9.  The Grapes of Wrath      4   $1.75
+10. The Bible                1   $1.15
+9
+How many would you like to purchase?
+0
+Welcome to Alex's Online Book Store!
+Enter the item number of the books you'd like to add to your cart!
+You can always enter 0 to checkout.
+
+   Book Name ~ Amount Stocked ~ Price
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.  Harry Potter             6   $3.25
+2.  Moby Dick                1   $2.55
+3.  Hamlet                   6   $5.65
+4.  The Great Gatsby         1   $1.55
+5.  Nineteen Eighty Four     3   $4.25
+6.  Alice in Wonderland      3   $2.75
+7.  Great Expectations       7   $3.25
+8.  The Catcher in the Rye   1   $2.15
+9.  The Grapes of Wrath      4   $1.75
+10. The Bible                1   $1.15
+10
+How many would you like to purchase?
+1
+Welcome to Alex's Online Book Store!
+Enter the item number of the books you'd like to add to your cart!
+You can always enter 0 to checkout.
+
+   Book Name ~ Amount Stocked ~ Price
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.  Harry Potter             6   $3.25
+2.  Moby Dick                1   $2.55
+3.  Hamlet                   6   $5.65
+4.  The Great Gatsby         1   $1.55
+5.  Nineteen Eighty Four     3   $4.25
+6.  Alice in Wonderland      3   $2.75
+7.  Great Expectations       7   $3.25
+8.  The Catcher in the Rye   1   $2.15
+9.  The Grapes of Wrath      4   $1.75
+10. The Bible                0   $1.15
+0
+Your Cart:
+   Book Name ~ Amount Bought ~ Price
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.  Harry Potter             2   $3.25
+2.  Moby Dick                2   $2.55
+3.  Hamlet                   2   $5.65
+4.  The Great Gatsby         1   $1.55
+5.  Nineteen Eighty Four     6   $4.25
+6.  Alice in Wonderland      1   $2.75
+7.  Great Expectations       2   $3.25
+8.  The Catcher in the Rye   1   $2.15
+9.  The Grapes of Wrath      0   $1.75
+10. The Bible                1   $1.15
+Total Amount: $62.5
 
 */
