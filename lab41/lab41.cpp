@@ -24,8 +24,8 @@ class ArrayTools {
     
     private:
     //Class Variables
-    int array[];
     int size_;
+    int array[];
     string sorted_;
 
     
