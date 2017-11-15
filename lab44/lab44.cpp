@@ -45,7 +45,7 @@ int main() {
         cout << "Heads up! Your first name and last name are the same!" << endl;
         
     }
-    tolower(first)
+    tolower(first);
     strcpy(first, last);
         
 }
