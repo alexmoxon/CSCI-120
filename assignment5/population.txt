@@ -1,0 +1,11 @@
+New York City:8,500,000 
+Los Angeles:4,000,000 
+Chicago:2,700,000 
+Houston:2,300,000 
+Philadelphia:1,600,000 
+Phoenix:1,560,000 
+San Antonio:1,470,000 
+San Diego:1,400,000 
+Dallas:1,300,000 
+San Jose:1,030,000 
+Chico:92,000 
